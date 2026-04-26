@@ -162,7 +162,8 @@ export default function App() {
         <div className="contact-content">
           <p>📧 <a href="mailto:official.chirantan@gmail.com">official.chirantan@gmail.com</a></p>
           <p>📱 +353 894 136 804</p>
-          <p>💼 <a href="[github.com](https://github.com/ChirantanChatterjee)" target="_blank" rel="noreferrer">github.com/ChirantanChatterjee</a></p>
+          <p>🔗 <a href="https://www.linkedin.com/in/chirantan1chatterjee" target="_blank" rel="noreferrer">linkedin.com/in/chirantan1chatterjee</a></p>
+          <p>💼 <a href="https://github.com/ChirantanChatterjee" target="_blank" rel="noreferrer">github.com/ChirantanChatterjee</a></p>
           <p>📍 Dublin, Ireland</p>
         </div>
       </Section>
